@@ -1,1 +1,1 @@
-# pruthin_devops
+# github_devops
